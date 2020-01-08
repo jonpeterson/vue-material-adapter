@@ -157,7 +157,7 @@
     "to-slug-case": "^1.0.0",
     "url-loader": "^3.0.0",
     "vue": "^2.6.11",
-    "vue-analytics": "^5.20.2",
+    "vue-analytics": "^5.22.0",
     "vue-eslint-parser": "^7.0.0",
     "vue-jest": "^3.0.5",
     "vue-loader": "^15.8.3",
